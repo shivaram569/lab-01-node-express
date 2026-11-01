@@ -19,13 +19,13 @@ npm install
 
 ## 3. How to Run
 
-### Node.js HTTP Server
+**Node.js HTTP Server**
 
 ```bash
 node http-server.js
 ```
 
-### Express Server
+**Express Server**
 
 ```bash
 node app.js
